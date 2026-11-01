@@ -1,0 +1,4 @@
+email,name,role,subteam
+admin@example.com,Pat Organizer,admin,
+judge1@example.com,Sam Judge,judge,Healthcare
+judge2@example.com,Riley Judge,judge,Education
